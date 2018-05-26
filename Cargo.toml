@@ -1,0 +1,6 @@
+[package]
+name = "vdom"
+version = "0.1.0"
+authors = ["atgJack <jack@atg.io>"]
+
+[dependencies]
